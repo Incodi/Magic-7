@@ -7,4 +7,5 @@ It will forget the oldest question if given another question when the queue capa
 Made using BlueJ.
 
 I created this because I wanted to learn more about Linked Lists and Hashmaps.
-If you are randomly here, note that this isn't professional at all.
+
+
