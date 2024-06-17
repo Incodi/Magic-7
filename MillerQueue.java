@@ -1,10 +1,12 @@
-import java.util.*;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.Map;
 
 /**
  * Queue made to act like Miller's magic number 7.
  *
  * @author Incodi
- * @version A
+ * @version B
  */
 
 public class MillerQueue {

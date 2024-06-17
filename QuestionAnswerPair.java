@@ -2,7 +2,7 @@
  * Connects question and answer for MillerQueue
  *
  * @author Incodi
- * @version A
+ * @version B
  */
 class QuestionAnswerPair{
     String question;
